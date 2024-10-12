@@ -1,9 +1,6 @@
-/* Importing Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Playfair+Display:wght@400;700&display=swap');
-
 /* General body styling */
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     background-color: #f9f9f9;
     color: #333;
     margin: 0;
@@ -18,13 +15,13 @@ header {
 }
 
 h1 {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Playfair Display', Georgia, serif;
     font-size: 3em;
     color: #2c3e50;
 }
 
 h2 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     font-weight: normal;
     font-size: 1.5em;
     color: #34495e;
@@ -47,7 +44,7 @@ h2 {
 }
 
 .chorus p {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Playfair Display', Georgia, serif;
     font-size: 1.8em;
     font-weight: bold;
     color: #e74c3c;
